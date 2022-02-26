@@ -1,0 +1,59 @@
+Aprende a Construir este DashBoard en Excel desde cero en 2 Horas
+https://www.youtube.com/watch?v=5eS812SDZ9Y
+Construye este Increíble DashBoard en Excel desde cero en solo 2 Horas
+https://www.youtube.com/watch?v=9DiZsY8GPss
+
+Función de Excel: IMPORTARDATOSDINAMICOS
+https://www.youtube.com/watch?v=kbwH2rhs0l0
+
+Relacionar tablas en Excel | Tutorial Excel
+https://www.youtube.com/watch?v=xhnemv5AOgg
+
+ANALISIS DE DATOS MULTIVARIANTES Daniel Peña PDF
+https://es.scribd.com/document/484731883/ANALISIS-DE-DATOS-MULTIVARIANTES-daniel-pena-pdf
+Daniel peña análisis de datos multivariantes
+https://es.slideshare.net/fojeda89/daniel-pea-anlisis-de-datos-multivariantes
+http://halweb.uc3m.es/esp/Personal/personas/dpena/dpenaweb.html
+
+https://es.pdfdrive.com/
+
+K-means
+https://uc-r.github.io/kmeans_clustering
+https://blogs.oracle.com/ai-and-datascience/post/introduction-to-k-means-clustering
+https://aprendeia.com/algoritmo-kmeans-clustering-machine-learning/
+https://www.unioviedo.es/compnum/laboratorios_py/kmeans/kmeans.html
+
+https://www.tutorialesprogramacionya.com/oracleya/temarios/descripcion.php?cod=235&punto=1&inicio=
+
+6 Semana Analisis Multivariante Parte I
+https://es.slideshare.net/jpgv84/6-semana-analisis-multivariante-parte-i
+5 Semana Analisis Multivariante Parte I
+https://es.slideshare.net/jpgv84/5-semana-analisis-multivariante-parte-i
+3° Y 4° Semana Analisis Multivariante
+https://es.slideshare.net/jpgv84/3-y-4-semana-analisis-multivariante
+2 Semana Analisis Multivariante Parte Ii
+https://es.slideshare.net/jpgv84/2-semana-analisis-multivariante-parte-ii
+2 Semana Analisis Multivariante Parte I
+https://es.slideshare.net/jpgv84/2-semana-analisis-multivariante-parte-i
+1 Semana Analisis Multivariante
+https://es.slideshare.net/jpgv84/1-semana-analisis-multivariante
+
+Title: Practical Guide To Principal Component Methods in R (Multivariate Analysis Book 2)
+Author(s): Alboukadel Kassambara
+https://libgen.gs/ads.php?md5=fbfc517484a0f59057bb3267809390c1
+Title: Multivariate Analysis II Practical Guide to Principal Component Methods in R
+Author(s): Alboukadel Kassambara
+https://libgen.gs/ads.php?md5=16bd5874049ea93f7866e5436d7e87b8
+Title: Practical Guide to Cluster Analysis in R. Unsupervised Machine Learning
+Author(s): Alboukadel Kassambara
+https://libgen.gs/ads.php?md5=7cbe43de8c4f13acdc7601338128bc36
+Title: Practical Guide to Cluster Analysis in R. Unsupervised Machine Learning
+Author(s): Alboukadel Kassambara
+https://libgen.gs/ads.php?md5=b55dc80ee86c77ac5dc5f606d311bf05
+https://rpkgs.datanovia.com/factoextra/
+
+https://use-the-index-luke.com/es/sql/resultados-parciales/sentencia-top-n
+https://rendimiento-sql-explicado.es/?utm_content=promo-book&utm_source=use-the-index-luke.com&utm_campaign=sec-top-n&utm_medium=web
+Title: SQL Performance Explained
+Author(s): Markus Winand
+https://libgen.gs/ads.php?md5=95bcd89aac67b60bdd5056b18aa25bc4
